@@ -1,5 +1,6 @@
 ml_env/
 *.csv
+*.pkl
 __pycache__/
 *.pyc
 .DS_Store
