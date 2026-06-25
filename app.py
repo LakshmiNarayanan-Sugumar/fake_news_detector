@@ -22,7 +22,7 @@ def clean_text(text):
     return text
 
 # UI
-st.title("🔍 Fake News Detector")
+st.title("Fake News Detector")
 st.write("Paste a news article below and select a model to predict whether it is real or fake.")
 
 # model selection
